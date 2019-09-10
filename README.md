@@ -7,11 +7,10 @@
 
 * apt-get install git
 
-* git clone 
+* git clone https://github.com/AngelSecurityTeam/GatheTOOL
 
-* cd 
+* cd GatheTOOL
 
-
-* python3 zemtibook.py
+* python3 GatheTool.py
 
 <img src="https://github.com/AngelSecurityTeam/GatheTOOL/blob/master/InfoToolFOTO.png">
