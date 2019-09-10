@@ -1,4 +1,5 @@
 #!usr/bin/python
+# https://github.com/AngelSecurityTeam/GatheTOOL
 import os,socket,requests,platform
 
 def logo():
