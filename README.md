@@ -5,7 +5,7 @@
 
 * apt-get install python3
 
-* apt-get install git
+* apt-get install gita
 
 * git clone https://github.com/AngelSecurityTeam/GatheTOOL
 
